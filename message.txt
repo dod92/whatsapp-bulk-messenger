@@ -1,5 +1,37 @@
-Hello World,
+Hi {{First Name}},
 
-This is my text to you from automated messaging system.
+First, we would like to congratulate your business ({{Company}}) for making it through this COVID-19 pandemic period.
 
-Thank You
+But in this digital age, the best way to keep your business afloat, visible, and relevant to the world is through the internet.
+
+We as Kawigraphics Studios are an independent visual communication agency in Nairobi(KE) providing IT Solutions to businesses and individuals;
+
+In fact, the only reason we exist is to help businesses like yours stand out among the rest.
+
+We are best known for:
+
+Website and Mobile application development
+Marketing ie SEO and Organic
+Domain registration and renewal
+Website and Application security(SSL) ie Norton, Digicert, Sectigo, Comodo, Rapid SSL
+Cloud Hosting (AWS and Google Cloud)
+Shared Hosting
+Email Hosting
+Banner/ poster design and printing
+
+We're open to an initial conversation to see if we're a good fit, and then we'll be glad to take this conversation to the next stage.
+
+We've worked with companies like Roto Tanks, Cierra Perfumes, Bobu Africa, and Ubuntu Hospitality, among others.
+
+If you have a minute or two to learn more about us, you can visit us here at https://kawigraphics.com, then reach out via email or phone and we’ll be happy to help.
+
+Thank you,
+
+Philip Obonyo
+Chief Executive Officer
++254114450462
+philip@kawigraphics.com
+
+https://www.linkedin.com/company/kawigraphics-studios
+https://twitter.com/kawigraphics
+https://www.facebook.com/kawigraphics.studios
